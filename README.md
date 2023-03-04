@@ -38,4 +38,4 @@ LinkedIn: [@Adilson](https://www.linkedin.com/in/adilson-roberto-cavicchioli-jun
 Email: [cavicchioli.adilson@gmail.com](mailto:cavicchioli.adilson@gmail.com) <br>
 GitHub: [@juniorcavicchioli](https://github.com/juniorcavicchioli?tab=repositories) <br>
 
-Sinta-se à vontade para me contatar para perguntas, sugestões ou colaborações em projetos futuros!
+Sinta-se à vontade para me contatar caso tenha dificuldade em gerar uma chave para testar o programa, para perguntas, sugestões ou colaborações em projetos futuros!
