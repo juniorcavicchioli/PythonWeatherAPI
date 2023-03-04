@@ -8,7 +8,7 @@ O usuário informa o nome da cidade que deseja consultar e a chave da API do Ope
 ## Como utilizar
 1. Você precisará de uma chave de API válida do OpenWeatherMap. Você pode obter uma chave gratuita no site do OpenWeatherMap.
 2. Faça o clone do projeto em seu computador.
-3. Na linha 3 do arquivo, substitua sua_chave_api pela chave de API que você obteve no OpenWeatherMap.
+3. Na linha 3 do arquivo, substitua sua_chave_api pela chave de API que você obteve no [OpenWeatherMap](https://home.openweathermap.org).
 4. Execute o programa digitando `python nome_do_arquivo.py` no terminal, onde `nome_do_arquivo.py` é o nome do arquivo que contém o código, no caso, o `main.py`.
 5. Digite o nome da cidade que deseja consultar as informações climáticas e pressione Enter.
 
