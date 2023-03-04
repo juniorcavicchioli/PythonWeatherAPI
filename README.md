@@ -24,3 +24,12 @@ Temperatura...29.14
 Tempo.........few clouds
 Umidade.......58
 ```
+
+## Autor
+Feito por Adilson Roberto Cavicchioli Junior. Entre em contato!
+
+LinkedIn: [@Adilson](https://www.linkedin.com/in/adilson-roberto-cavicchioli-junior-6816b7192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIpMh5bVEQOi82%2FRHJ6oxkg%3D%3D) <br>
+Email: [cavicchioli.adilson@gmail.com](mailto:cavicchioli.adilson@gmail.com) <br>
+GitHub: [@juniorcavicchioli](https://github.com/juniorcavicchioli?tab=repositories) <br>
+
+Sinta-se à vontade para me contatar para perguntas, sugestões ou colaborações em projetos futuros!
