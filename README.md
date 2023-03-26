@@ -11,11 +11,11 @@ Este é um simples projeto em Python que utiliza a API do OpenWeatherMap para ex
 ## Como funciona
 O usuário é solicitado a inserir o nome de uma cidade e, em seguida, o programa faz uma solicitação para a API OpenWeatherMap para obter informações sobre a cidade, incluindo temperatura, descrição do tempo e umidade. O programa exibe essas informações na saída padrão.
 ### Exemplo de entrada
-```
+```python
 Pindamonhangaba
 ```
 ### Exemplo de saída
-```python
+```console
 Cidade........Pindamonhangaba
 Temperatura...29.14
 Tempo.........few clouds
@@ -32,10 +32,9 @@ pip install requests
 `
 
 ## Autor
-Feito por Adilson Roberto Cavicchioli Junior. Entre em contato!
+Feito por [@juniorcavicchioli](https://github.com/juniorcavicchioli?tab=repositories). Entre em contato!
 
-LinkedIn: [@Adilson](https://www.linkedin.com/in/adilson-roberto-cavicchioli-junior-6816b7192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIpMh5bVEQOi82%2FRHJ6oxkg%3D%3D) <br>
-Email: [cavicchioli.adilson@gmail.com](mailto:cavicchioli.adilson@gmail.com) <br>
-GitHub: [@juniorcavicchioli](https://github.com/juniorcavicchioli?tab=repositories) <br>
+LinkedIn: [Adilson Roberto Cavicchioli Junior](https://www.linkedin.com/in/adilson-roberto-cavicchioli-junior-6816b7192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIpMh5bVEQOi82%2FRHJ6oxkg%3D%3D) <br>
+Email: [cavicchioli.adilson@gmail.com](mailto:cavicchioli.adilson@gmail.com)
 
 Sinta-se à vontade para me contatar caso tenha dificuldade em gerar uma chave para testar o programa, para perguntas, sugestões ou colaborações em projetos futuros!
