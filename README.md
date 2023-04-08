@@ -1,4 +1,6 @@
 # PythonWeatherAPI
+<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=juniorcavicchioli.DesafioTarget&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=flat-square"/>
+
 ## Sumário
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Como funciona](#como-funciona)
